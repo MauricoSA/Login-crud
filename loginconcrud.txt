@@ -1,0 +1,17 @@
+login de usuario con registro
+los datos que pide el registro son:
+	- nombre
+	- apellido materno
+	- email
+	- usuario 
+	- password 
+validar la ruta, que no se pueda entrar si no hay una sesion iniciada 
+
+Al entrar con el login nos debe mostrar un crud el cual puede ayudarnos a guardar nuestros gastos personales 
+
+la tabla de este crud lleva
+	- Concepto de gasto
+	- Cantidad de gasto 
+	- Fecha 
+	- Editar
+	- Eliminar 
